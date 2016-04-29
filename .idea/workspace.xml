@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610cd316-6476-44c3-89b1-e65c997c9737" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/09/0920223590089a367a2264e41ca993b05d5c5456f1c03c889927403cb146e852.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/09/0920223590089a367a2264e41ca993b05d5c5456f1c03c889927403cb146e852.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0e/0e347dfc1e77e0ec3113c079766335180fa24b9d5a442a11ae09d17c7e1afb45.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0e/0e347dfc1e77e0ec3113c079766335180fa24b9d5a442a11ae09d17c7e1afb45.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0e/0ea0bc12ec41102b8f24b76c1f7d37678ce23738ac99a1098291c01845c69502.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0e/0ea0bc12ec41102b8f24b76c1f7d37678ce23738ac99a1098291c01845c69502.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0f/0f37ce6d1397ef9d1d77a53007fe5f1d482ed4d29d2374d12870a1f3af2baa9a.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0f/0f37ce6d1397ef9d1d77a53007fe5f1d482ed4d29d2374d12870a1f3af2baa9a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0f/0f5ee7e554dadcad505afc328c0ffb4d9b27a1c7d25d06d8b6638a3dfd399469.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/0f/0f5ee7e554dadcad505afc328c0ffb4d9b27a1c7d25d06d8b6638a3dfd399469.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/14/14b1eea20f922e6c59fae368180c4ea078bcec2138cf233caabbf856ceff80d4.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/14/14b1eea20f922e6c59fae368180c4ea078bcec2138cf233caabbf856ceff80d4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/16/1646c2743cdc54f124ff04c28bc6c349b57051b0e4c66a892a3827ea269350e4.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/16/1646c2743cdc54f124ff04c28bc6c349b57051b0e4c66a892a3827ea269350e4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1a/1a9904cd1783d2a235447d96e70bc3728dde62c373a4d4effafeb10eebbfd885.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1a/1a9904cd1783d2a235447d96e70bc3728dde62c373a4d4effafeb10eebbfd885.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1f/1f3a665c17e9d59ebe12e2fd4766d427f428381b24435c0c88c1067efe40dd3f.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1f/1f3a665c17e9d59ebe12e2fd4766d427f428381b24435c0c88c1067efe40dd3f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1f/1f7cfe00a443005a38f32ff279b599814494c77e6312b7b9d2b7f36f0e29f7ad.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/1f/1f7cfe00a443005a38f32ff279b599814494c77e6312b7b9d2b7f36f0e29f7ad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/21/21996dcf828e537a3b6df53e8d44d4f253cef6b176260e916d9ae94fb6de82a7.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/21/21996dcf828e537a3b6df53e8d44d4f253cef6b176260e916d9ae94fb6de82a7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/28/28ddbc72a0ca7001a2a7631169bd0b0d6152d63b38b9f6b7b1e5552b17f15302.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/28/28ddbc72a0ca7001a2a7631169bd0b0d6152d63b38b9f6b7b1e5552b17f15302.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/2b/2b8bf372cfc3edd3dbe10bac8491e511cc7493c7cab37ef1c94011273e5c240f.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/2b/2b8bf372cfc3edd3dbe10bac8491e511cc7493c7cab37ef1c94011273e5c240f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/3b/3b748c17fa0a1523aa376e01be21e960020fabb23b9de6df6bab05a132b1453e.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/3b/3b748c17fa0a1523aa376e01be21e960020fabb23b9de6df6bab05a132b1453e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/48/48c7bf13545732789e6a59f49483a1d3fa22b3a17c933ce8d82641d9af0469fe.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/48/48c7bf13545732789e6a59f49483a1d3fa22b3a17c933ce8d82641d9af0469fe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4b/4b2f0b8917c8c6f82d66306c50732146e4a90e23a2c5628aa70744231f97e155.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4b/4b2f0b8917c8c6f82d66306c50732146e4a90e23a2c5628aa70744231f97e155.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4c/4cc4ff6099a76ff9240efff3542158f717ec3035e8ebd0b7e2570a7c924c980f.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4c/4cc4ff6099a76ff9240efff3542158f717ec3035e8ebd0b7e2570a7c924c980f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4f/4ff77c6437275c3812b86b64724b31d1dbf8c5bc48d1d13a00d71c384ec4c2ff.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/4f/4ff77c6437275c3812b86b64724b31d1dbf8c5bc48d1d13a00d71c384ec4c2ff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5a/5a1387722c95eaa4a8f9764d91eb0f33da39208039d6f3f41b930c06b8eddb77.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5a/5a1387722c95eaa4a8f9764d91eb0f33da39208039d6f3f41b930c06b8eddb77.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5b/5b187170f93dafd58b69411a0414f96c61128df7ae5913a1740a5da9ef6ed9b9.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5b/5b187170f93dafd58b69411a0414f96c61128df7ae5913a1740a5da9ef6ed9b9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5c/5cdf8d322d9b037e55da12eb9ece5c064b6c92993f1f721f1efada1e55e79061.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/5c/5cdf8d322d9b037e55da12eb9ece5c064b6c92993f1f721f1efada1e55e79061.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/61/610b1f2e6f8127d2549de5040389d5642dcc932298a1b6155f4eec7388da5e51.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/61/610b1f2e6f8127d2549de5040389d5642dcc932298a1b6155f4eec7388da5e51.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/63/638dba934c45bb566cc95cf8f75c43361616575991fbed49fbdb397621e40008.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/63/638dba934c45bb566cc95cf8f75c43361616575991fbed49fbdb397621e40008.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/74/74dd10d11994c1fea723eea2ed00e45e13994e71fe7c706a8850311db8bd3b73.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/74/74dd10d11994c1fea723eea2ed00e45e13994e71fe7c706a8850311db8bd3b73.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/8e/8e044f206b0735f20dd60e14be9c428e043a379e8b9d99bb01efec645f405cd4.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/8e/8e044f206b0735f20dd60e14be9c428e043a379e8b9d99bb01efec645f405cd4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/8e/8eefef0d20a2bc9db7413eeeee027810392bf1d275f134621d61c2b420465f81.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/8e/8eefef0d20a2bc9db7413eeeee027810392bf1d275f134621d61c2b420465f81.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/96/96953084820c0303888d3a15fccbd874e71369724e3c276e3c32d8d2d141beeb.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/96/96953084820c0303888d3a15fccbd874e71369724e3c276e3c32d8d2d141beeb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/9f/9f28caf4a3f5f5cdd5397f3a1bb5c4a13eb7f1d27b28fcc9313faef241d44328.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/9f/9f28caf4a3f5f5cdd5397f3a1bb5c4a13eb7f1d27b28fcc9313faef241d44328.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ad/ad977cd6b2c8651f1ae6c9bd7f83b3658721249e9b7431472e1c3fcdbd9301ba.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ad/ad977cd6b2c8651f1ae6c9bd7f83b3658721249e9b7431472e1c3fcdbd9301ba.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/b0/b0e9163d76147c36eb920d4a7ab04e58e1ff409bb55ddc8fbc0a11ef39b58e08.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/b0/b0e9163d76147c36eb920d4a7ab04e58e1ff409bb55ddc8fbc0a11ef39b58e08.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/b7/b78a6b6789a693962e459535d5dcbbcfdb07b97acbecbe0273e1e0ad914ddfd8.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/b7/b78a6b6789a693962e459535d5dcbbcfdb07b97acbecbe0273e1e0ad914ddfd8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/bd/bd384cca60ef6261769a49ede8f58a3ec31c4e4f8eb69d383e83edc600483273.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/bd/bd384cca60ef6261769a49ede8f58a3ec31c4e4f8eb69d383e83edc600483273.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/bd/bddc289b5d9311d27ecbbe061b1728afbd931e8538ad94e69b3d9722b3154a37.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/bd/bddc289b5d9311d27ecbbe061b1728afbd931e8538ad94e69b3d9722b3154a37.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/c9/c9a268e77fca2f9915eb47ccd75f86874bedcdc84803d7e83b1eafcccf0de36d.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/c9/c9a268e77fca2f9915eb47ccd75f86874bedcdc84803d7e83b1eafcccf0de36d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/c9/c9eed35f8d8a3a2433305220bbc5f0d6d1d7485404941c58339e110c4a092d36.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/c9/c9eed35f8d8a3a2433305220bbc5f0d6d1d7485404941c58339e110c4a092d36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ca/ca67e8f7b598c12a5d4c59ac63a3da4bb483acd808f4fb5fdcd58115a81a4437.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ca/ca67e8f7b598c12a5d4c59ac63a3da4bb483acd808f4fb5fdcd58115a81a4437.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ce/cecd4bc579570d9426e0fe9be7aaff45de30d402b00d006df0538592fb3fc6a7.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/ce/cecd4bc579570d9426e0fe9be7aaff45de30d402b00d006df0538592fb3fc6a7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/classes.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/classes.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/composer.json" afterPath="$PROJECT_DIR$/Symfony/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d3/d3828ab38b52593bda4f12690ecdb57b525ac02a32ce98bd5e030ce73fead027.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d3/d3828ab38b52593bda4f12690ecdb57b525ac02a32ce98bd5e030ce73fead027.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d5/d54e3576ef17d473ee29da515e0e091fcf28c95b54d86d1c7e41ca8413a25a9b.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d5/d54e3576ef17d473ee29da515e0e091fcf28c95b54d86d1c7e41ca8413a25a9b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d8/d83b3888a7dc6b735101a01e624b91e285222649c0e18c27f952116032fb0798.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/d8/d83b3888a7dc6b735101a01e624b91e285222649c0e18c27f952116032fb0798.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e0/e09342d9e08901e5a052dac827023d8396d8ad0b9f2e473b08857871f9808134.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e0/e09342d9e08901e5a052dac827023d8396d8ad0b9f2e473b08857871f9808134.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e2/e24f7a0a687e79e0a6cb479a104968ac07fff0fd7cf24996bc52685aeabf3787.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e2/e24f7a0a687e79e0a6cb479a104968ac07fff0fd7cf24996bc52685aeabf3787.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e8/e8042df54b0ac03093afe075171d25e2360abafdb06a57233ddacdae83089075.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/e8/e8042df54b0ac03093afe075171d25e2360abafdb06a57233ddacdae83089075.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/f0/f0381bf9de5f8c2332c32d4744c42a1cb0e552ec1ed4b77f0f338c4739b6316f.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/f0/f0381bf9de5f8c2332c32d4744c42a1cb0e552ec1ed4b77f0f338c4739b6316f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/fa/faab3200ee4e0dd85aed3c6d360dcb85db602fb18b7d90f51d0450dd817d3259.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/fa/faab3200ee4e0dd85aed3c6d360dcb85db602fb18b7d90f51d0450dd817d3259.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/fe/fe494849fa15647495d1d9bd4a8d1473dda4b0cd4d358ab8d181f630172615cf.php" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/twig/fe/fe494849fa15647495d1d9bd4a8d1473dda4b0cd4d358ab8d181f630172615cf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/Symfony/var/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Symfony/app/config/services.yml" afterPath="$PROJECT_DIR$/Symfony/app/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="falcon.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="falcon" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Symfony/app/config/services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Symfony/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41051453" vertical-offset="143" max-vertical-offset="1462">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Symfony/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1358" max-vertical-offset="2278">
+              <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/Advert/view.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/AdvertSkill.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/DataFixtures/ORM/LoadSkill.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/DataFixtures/ORM/LoadCategory.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/AdvertRepository.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/Advert/test.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/Application.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/DoctrineListener/ApplicationNotification.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Repository/AdvertRepository.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/layoutgeneral.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/Advert/templatepage.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/ImageType.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/AdvertType.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Validator/Antiflood.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Validator/AntifloodValidator.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/Advert.php" />
+        <option value="$PROJECT_DIR$/Symfony/vendor/sensio/generator-bundle/Generator/BundleGenerator.php" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/routing_dev.yml" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/Security/login_check.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/DataFixtures/ORM/LoadUser.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/OCUserBundle.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/UserBundle/Controller/SecurityController.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/Type/CkeditorType.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Antispam/OCAntispam.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/ArticleType.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Beta/BetaHTML.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Beta/BetaListener.php" />
+        <option value="$PROJECT_DIR$/Symfony/vendor/composer/autoload_files.php" />
+        <option value="$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/samples/toolbarconfigurator/index.html" />
+        <option value="$PROJECT_DIR$/Symfony/app/.htaccess" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/EventListener/SearchIndexerSubscriber.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/EventListener/SearchIndexer.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/config/services.yml" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Service/Slugger.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/Engine.php" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/Symfony/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/Advert/form.html.twig" />
+        <option value="$PROJECT_DIR$/Symfony/vendor/sonata-project/media-bundle/Provider/VimeoProvider.php" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/Symfony/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/Symfony/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonata-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonata-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sonata-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media-bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Provider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlatformBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlatformBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlatformBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Advert" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlatformBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlatformBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="falcon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Symfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd/git.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\charles.quelennec\Documents\workspace\falcon\Symfony\src\OC\PlatformBundle" />
+      <recent name="C:\Users\charles.quelennec\Documents\workspace\falcon\Symfony\src\OC\PlatformBundle\Resources\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Entity">
+    <configuration default="false" name="Entity" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.Entity" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.Entity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610cd316-6476-44c3-89b1-e65c997c9737" name="Default" comment="" />
+      <created>1460723117693</created>
+      <option name="number" value="Default" />
+      <updated>1460723117693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/DoctrineListener/ApplicationNotification.php</url>
+          <line>5</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Validator/AntifloodValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/sensio/generator-bundle/Generator/BundleGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34707904" vertical-offset="665" max-vertical-offset="1275">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/sensio/generator-bundle/Command/GenerateBundleCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4347079" vertical-offset="4626" max-vertical-offset="6749">
+          <caret line="304" column="0" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/Security/login_check.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="170">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33552632" vertical-offset="0" max-vertical-offset="608">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/DataFixtures/ORM/LoadUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.192308" vertical-offset="0" max-vertical-offset="731">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/layoutgeneral.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6655481" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="35" column="79" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/layoutbundle.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39932886" vertical-offset="0" max-vertical-offset="894">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31413043" vertical-offset="0" max-vertical-offset="920">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/OCUserBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1901566" vertical-offset="0" max-vertical-offset="894">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39932886" vertical-offset="0" max-vertical-offset="894">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24021739" vertical-offset="0" max-vertical-offset="920">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.76923" vertical-offset="0" max-vertical-offset="901">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/UserBundle/Controller/SecurityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="357" max-vertical-offset="1258">
+          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/Type/CkeditorType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45637584" vertical-offset="0" max-vertical-offset="894">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Antispam/OCAntispam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23583815" vertical-offset="0" max-vertical-offset="901">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Form/ArticleType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="425">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Beta/BetaListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="629">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Beta/BetaHTML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="612">
+          <caret line="30" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/OCPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39932886" vertical-offset="153" max-vertical-offset="1105">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/composer/autoload_files.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15212528" vertical-offset="0" max-vertical-offset="894">
+          <caret line="8" column="95" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/ckeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17051">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/samples/toolbarconfigurator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-260.23077" vertical-offset="0" max-vertical-offset="7684">
+          <caret line="398" column="67" selection-start-line="398" selection-start-column="67" selection-end-line="398" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/ckeditor/ckeditor/samples/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13507378" vertical-offset="0" max-vertical-offset="2278">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/EventListener/SearchIndexerSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68456376" vertical-offset="0" max-vertical-offset="894">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Service/Slugger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.153846" vertical-offset="408" max-vertical-offset="2125">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12934783" vertical-offset="0" max-vertical-offset="920">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25869566" vertical-offset="0" max-vertical-offset="920">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/EventListener/SearchIndexer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3803132" vertical-offset="0" max-vertical-offset="894">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Entity/Advert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-56.23077" vertical-offset="0" max-vertical-offset="5984">
+          <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Repository/CategoryRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Controller/AdvertController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8769575" vertical-offset="6050" max-vertical-offset="6970">
+          <caret line="402" column="5" selection-start-line="402" selection-start-column="5" selection-end-line="402" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/src/OC/PlatformBundle/Resources/views/Advert/form.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="2074">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="24" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="816">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/sonata-project/media-bundle/Provider/VimeoProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2601">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#288#325#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/vendor/friendsofsymfony/user-bundle/Tests/DependencyInjection/FOSUserExtensionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="7837">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29642057" vertical-offset="245" max-vertical-offset="1241">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1358" max-vertical-offset="2278">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Symfony/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41051453" vertical-offset="143" max-vertical-offset="1462">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
