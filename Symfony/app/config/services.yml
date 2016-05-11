@@ -31,3 +31,9 @@ services:
             - [setAnnotationReader, ['@annotation_reader']]
             - [setTransliterator, [[OC\PlatformBundle\Service\Slugger, transliterate]]]
             - [setUrlizer, [[OC\PlatformBundle\Service\Slugger, urlize]]]
+    services:
+        admin.category:
+            class: AppBundle\Admin\CategoryAdmin
+            arguments: [~, AppBundle\Entity\Category1, ~]
+            tags:
+                - { name: sonata.admin, manager_type: orm, label: Category1 }

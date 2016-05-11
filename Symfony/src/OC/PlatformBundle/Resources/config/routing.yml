@@ -29,3 +29,7 @@ oc_platform_test:
 oc_platform_update:
     path:      /test/update
     defaults:  { _controller: OCPlatformBundle:Advert:update }
+
+oc_platform_editor:
+    path:      /test/editor
+    defaults:  { _controller: OCPlatformBundle:Advert:editor }

@@ -25,6 +25,7 @@ return array(
     'Gedmo\\' => array($vendorDir . '/gedmo/doctrine-extensions/lib'),
     'Gaufrette' => array($vendorDir . '/knplabs/gaufrette/src'),
     'FOS\\RestBundle' => array($vendorDir . '/friendsofsymfony/rest-bundle'),
+    'Exporter' => array($vendorDir . '/sonata-project/exporter/lib'),
     'Doctrine\\ORM\\' => array($vendorDir . '/doctrine/orm/lib'),
     'Doctrine\\DBAL\\' => array($vendorDir . '/doctrine/dbal/lib'),
     'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/lib'),

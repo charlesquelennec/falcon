@@ -30,7 +30,7 @@ security:
             pattern:   ^/login$
             anonymous: true # On autorise alors les anonymes sur ce pare-feu
         main:
-            pattern:   ^/
+            pattern:   ^/platform
             anonymous: true
             provider:  main
             form_login:

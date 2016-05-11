@@ -168,6 +168,32 @@ class AdvertController extends Controller
 //     */
     public function addAction(Request $request)
     {
+//        Esssais sur ckeditor
+//        $ckconfig = array(
+//            'toolbar' => array(
+//                array(
+//                    'name'  => 'basicstyles',
+//                    'items' => array('Bold','Italic','Underline','Strike','Subscript','Superscript','-','RemoveFormat'),
+//                ),
+//                array(
+//                    'name'  => 'paragraph',
+//                    'items' => array('NumberedList','BulletedList','-','Outdent','Indent','-','Blockquote'),
+//                ),
+//                array(
+//                    'name'  => 'links',
+//                    'items' => array('Link','Unlink'),
+//                ),
+//            ),
+//            'forcePasteAsPlainText'=> true
+//        );
+//        $builder
+//        ->add('description', 'ckeditor',
+//            array('label' => 'Kurztext',
+//                'required' => false,
+//                'config' => $ckconfig,
+//                'trim' => true
+//            )
+//        );
         //Selectionne dans la base de donnée l'élément souhaité
         $conn = $this->get('database_connection');
         $adverts = $conn->fetchAll('SELECT * FROM advert');
@@ -400,6 +426,9 @@ class AdvertController extends Controller
             'kernel.response',
             array($betaListener, 'processBeta')
         );
+    }
+    public function editorAction(){
+        return $this->render('OCPlatformBundle:Advert:editor.html.twig');
     }
 
 }

@@ -4,6 +4,7 @@ imports:
     - { resource: services.yml }
     - { resource: "@OCPlatformBundle/Resources/config/services.yml" }
     - { resource: "@OCUserBundle/Resources/config/services.yml" }
+    - { resource: "@OCAppBundle/Resources/config/services.yml" }
 
 # Put parameters here that don't need to change on each machine where the app is deployed
 # http://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
@@ -41,6 +42,14 @@ twig:
 
 # Doctrine Configuration
 doctrine:
+    orm:
+        auto_generate_proxy_classes: "%kernel.debug%"
+        entity_managers:
+            default:
+                naming_strategy: doctrine.orm.naming_strategy.underscore
+                auto_mapping: true
+                mappings:
+                    SonataMediaBundle: ~
     dbal:
         driver:   pdo_mysql
         host:     "%database_host%"
@@ -49,23 +58,8 @@ doctrine:
         user:     "%database_user%"
         password: "%database_password%"
         charset:  UTF8
-        # if using pdo_sqlite as your database driver:
-        #   1. add the path in parameters.yml
-        #     e.g. database_path: "%kernel.root_dir%/data/data.db3"
-        #   2. Uncomment database_path in parameters.yml.dist
-        #   3. Uncomment next line:
-        #     path:     "%database_path%"
         types:
-            json: Sonata\Doctrine\Types\JsonType
-    orm:
-#        entity_managers:
-#            default:
-#                mappings:
-#                    SonataMediaBundle: ~
-        auto_generate_proxy_classes: "%kernel.debug%"
-        naming_strategy: doctrine.orm.naming_strategy.underscore
-        auto_mapping: true
-
+              json: Sonata\Doctrine\Types\JsonType
 
 # Stof\DoctrineExtensionsBundle configuration
 stof_doctrine_extensions:
@@ -127,3 +121,12 @@ sonata_media:
         local:
             directory:  "%kernel.root_dir%/../web/uploads/media"
             create:     false
+sonata_block:
+    default_contexts: [cms]
+    blocks:
+        sonata.admin.block.admin_list:
+            contexts:   [admin]
+
+        #sonata.admin_doctrine_orm.block.audit:
+        #    contexts:   [admin]
+

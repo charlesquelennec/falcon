@@ -25,11 +25,15 @@ class AppKernel extends Kernel
             new OC\PlatformBundle\OCPlatformBundle(),
             new OC\UserBundle\OCUserBundle(),
             new FOS\UserBundle\FOSUserBundle(),
-            new Sonata\CoreBundle\SonataCoreBundle(),
-            new Sonata\MediaBundle\SonataMediaBundle(),
-            new Sonata\EasyExtendsBundle\SonataEasyExtendsBundle(),
-            new Application\Sonata\MediaBundle\ApplicationSonataMediaBundle(),
 
+            new Sonata\MediaBundle\SonataMediaBundle(),
+            new Sonata\CoreBundle\SonataCoreBundle(),
+            new Sonata\BlockBundle\SonataBlockBundle(),
+            new Knp\Bundle\MenuBundle\KnpMenuBundle(),
+            new Sonata\DoctrineORMAdminBundle\SonataDoctrineORMAdminBundle(),
+            new Sonata\AdminBundle\SonataAdminBundle(),
+            new Sonata\EasyExtendsBundle\SonataEasyExtendsBundle(),
+            new OC\AppBundle\OCAppBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {

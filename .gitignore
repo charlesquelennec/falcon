@@ -66,12 +66,17 @@
 
 
 # Build data
+
 /build/
 
 
 
 # Composer PHAR
 
+/composer.phar
+Symfony/vendor/doctrine/cache/
+Symfony/vendor/doctrine/collections/README.md
+Symfony/vendor/
 Symfony/var/cache/
 Symfony/var/logs/
 Symfony/var/sessions/
